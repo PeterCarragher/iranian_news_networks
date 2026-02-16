@@ -1,4 +1,7 @@
 # SEO Accountability Case Study
+
+To explore the webgraph related to these news sites, checkout our [interactive webgraph exploration tool](https://netneighbor.petercarragher.com/iranian-news-network) built ontop of the CommonCrawl dataset.
+
 If you find this analysis useful or build upon it, please cite the following paper:
 
 ```
